@@ -6,7 +6,11 @@ Proiectarea Algoritmilor - UPB 2019
 
 - Lab0: introducere + cateva probleme simple de interviu
 
+- Lab1: greedy
+
 ## Teme
+
+- Tema1 AA: identificarea numerelor prime
 
 ## Snippeturi
 
