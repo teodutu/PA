@@ -1,0 +1,7 @@
+all: build_verif
+
+build_verif:
+	g++ -o verif -Wall -lm -O3 ${ONLINE_JUDGE} _utils/verif.cpp
+
+clean:
+	rm -f verif

@@ -1,0 +1,3 @@
+/media/teo/2TB/Chestii/Poli/An_2/PA/Laburi/Lab2/cpp/task-3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/teo/2TB/Chestii/Poli/An_2/PA/Laburi/Lab2/cpp/task-3/cmake-build-debug/CMakeFiles/task_3.dir
+/media/teo/2TB/Chestii/Poli/An_2/PA/Laburi/Lab2/cpp/task-3/cmake-build-debug/CMakeFiles/edit_cache.dir

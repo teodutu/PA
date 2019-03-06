@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/teo/2TB/Chestii/Poli/An_2/PA/Laburi/Lab2/cpp/task-2/main.cpp
+fstream
+-
+vector
+-
+
