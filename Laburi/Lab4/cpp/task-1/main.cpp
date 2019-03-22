@@ -4,6 +4,7 @@
 using namespace std;
 
 const int kMod = 1e9 + 7;
+int even[1001], odd[1001];
 
 class Task {
  public:
@@ -33,9 +34,19 @@ class Task {
 		returnati restul impartirii numarului la 10^9 + 7.
 		*/
 
+        even[0] = 1;
+        odd[0] = 0;
 
+        for (int i = 1; i <= n; ++i) {
+            if (v[i] & 1) {
+               odd[i] = even[i] = (1LL * even[i - 1] + odd[i - 1]) % kMod;
+            } else {
+                even[i] = (1LL * even[i - 1] * 2) % kMod;
+                odd[i] = (1LL * odd[i - 1] * 2) % kMod;
+            }
+        }
 
-		return 0;
+        return even[n] - 1; 
 	}
 
 	void print_output(int result) {
