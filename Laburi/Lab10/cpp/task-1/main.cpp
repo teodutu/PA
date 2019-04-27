@@ -63,7 +63,7 @@ class Task {
             return get<0>(t1) < get<0>(t2);
         });
 
-        for (tuple<int, int, int>& crtEdge : edges) {
+        for (auto& crtEdge : edges) {
             tie(c, x, y) = crtEdge;
 
             if (find_root(x) != find_root(y)) {
