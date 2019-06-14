@@ -6,14 +6,38 @@ Proiectarea Algoritmilor - UPB 2019
 
 - Lab0: introducere + cateva probleme simple de interviu
 
-- Lab1: greedy
+- Lab1: divide et impera
+
+- Lab2: greedy
+
+- Lab3: programare dinamica (labul asta a fost seminar `=>` fara bonus :(
+
+- Lab4: programare dinamica (lab facut legit, yay)
+
+- Lab5: bkt... never again pls
+
+- Lab6: minimax... meh
+
+- Lab7: sortare topologica + BFS (bonus = Lee... `dezamagire++`)
+
+- Lab8: CTC, articulatii, punti, biconexe = Tarjan ftw
+
+- Lab9: Dijkstra + Bellman-Ford
+
+- Lab10: APM
+
+- Lab11: flux
+
+- Lab12: A*
 
 ## Teme
 
 - Tema1 AA: identificarea numerelor prime
 
-## Snippeturi
+- Tema1: greedy + programare dinamica + combinatorica la bonus
 
-- parsere
+- Tema2: algoritmi grafuri modificati: Dijkstra, Bellman-Ford, Fill
 
-- probleme interesante din diverse locuri, sper
+## Test
+
+- testul practic 2019
