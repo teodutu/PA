@@ -10,7 +10,7 @@ Proiectarea Algoritmilor - UPB 2019
 
 - Lab2: greedy
 
-- Lab3: programare dinamica (labul asta a fost seminar `=>` fara bonus :(
+- Lab3: programare dinamica (labul asta a fost seminar `=>` fara bonus :( )
 
 - Lab4: programare dinamica (lab facut legit, yay)
 
