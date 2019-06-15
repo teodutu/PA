@@ -9,18 +9,18 @@
 - in functie de acest numar, se va cauta binar numarul dorit fie la dreapta pozitiei rotirii, fie in
 stanga;
 
-- Complexitate temporala: `O(logn)`;
+- complexitate temporala: `Theta(logn)`;
 
-- Complexitate spatiala: `O(n)`.
+- complexitate spatiala: `Theta(n)`.
 
 ## Suma maxima dintr-un vector cu o constrangere: daca se ia v[i], nu se iau v[i - 1] si v[i + 1]
 
 - e destul sa se tina sumele maxime posibile pentru ultimele 2 pozitii, iar noua suma maxima se va
 calcula pe baza acestor maxime, dupa care, acestea din urma se vor actualiza la fiecare pas.
 
-- Complexitate temporala: `O(n)`;
+- Complexitate temporala: `Theta(n)`;
 
-- Complexitate spatiala: `O(1)`.
+- Complexitate spatiala: `Theta(1)`.
 
 ## Se cauta 3 numere cu suma 0 intr-un vector de intregi
 
@@ -30,9 +30,9 @@ primul numar `* (-1)`;
 - pentru a cauta cel de-al 3-lea numar se foloseste un `unordered_set` pentru a face interogari in
 `O(1)`;
 
-- Complexitate temporala: `O(n^2)`;
+- complexitate temporala: `Theta(n^2)`;
 
-- Complexitate spatiala: `O(n)`.
+- complexitate spatiala: `Theta(n)`.
 
 ## Codificand caracterele a-z cu numarul lor de ordine din alfabet, sa se afle numarul de interpretari al unei codificari
 
@@ -47,6 +47,6 @@ translatii este suma ultimelor 2 numere;
 
 - altfel, se pastreaza numarul precedent de translatii;
 
-- Complexitate temporala: `O(n)`;
+- complexitate temporala: `Theta(n)`;
 
-- Complexitate spatiala: `O(1)`.
+- complexitate spatiala: `Theta(1)`.
